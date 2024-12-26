@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Splash",
+    "pages/Index",
+    "pages/login/LoginPage",
+    "pages/register/RegisterPage",
+    "pages/ChartPage"
+  ]
+}
